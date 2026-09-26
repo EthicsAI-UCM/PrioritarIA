@@ -39,7 +39,7 @@ Además, usamos la wiki y el board (projects) del repositorio:
 | Marcos Poza Calvo | Product Owner | Norte |
 | Claudia Herce Sánchez | Scrum Master | Este |
 | Maria del Carmen Granados Villa | Team Advocate | Sur |
-| Carla López Priego | Experta en Git | `[pendiente]` |
+| Carla López Priego | Experta en Git | Este |
 | Lucía Gimenez García | Research Lead | Oeste |
 | Isaura Silva | Creative Director | Sur |
 
