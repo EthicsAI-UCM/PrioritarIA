@@ -22,11 +22,16 @@ PrioritarIA es un sistema de IA pensado para reordenar por urgencia real (no por
 ```text
 PrioritarIA/
 ├── README.md
-├── entregas/                 # Documentos principales de especificación (PDF, versiones)
-│   └── Especificación v1.0.pdf
-└── apendices/                # Material complementario y desarrollo detallado
-    └── Apéndice - Descripción completa v1.0.pdf
+└── sprint1/
+    ├── Especificacion v1.0.pdf
+    └── Anexos/
+        ├── Anexo - Definición del proyecto 2030 v1.0.pdf
+        └── Anexo - Lluvia de Ideas v1.0.pdf
 ```
+
+Cada sprint tendrá su propia carpeta (`sprint1/`, `sprint2/`...) con el
+documento principal de especificación y su subcarpeta `Anexos/` con el
+material complementario correspondiente.
 
 Además, usamos la wiki y el board (projects) del repositorio:
 - **Wiki** -> actas del Sprint Planning / Review / Retrospective y AI Log.
