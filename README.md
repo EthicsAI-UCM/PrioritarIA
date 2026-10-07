@@ -5,8 +5,8 @@ Proyecto de la asignatura 'Ética de Datos e Inteligencia Artificial' - Especifi
 PrioritarIA es un sistema de IA pensado para reordenar por urgencia real (no por orden de solicitud) la lista de espera de un servicio público, apoyando las decisiones de priorización pero sin sustituir el criterio humano final.
 
 ## Estado actual
-**Sprint en curso:** Sprint 1 -> Especificación del proyecto 
-**Próxima entrega:** 30/09/2026
+**Sprint en curso:** Sprint 2 -> Desafíos Éticos IA
+**Próxima entrega:** 11/10/2026
 
 | Sprint | Foco | Fecha pitch |
 |---|---|---|
@@ -22,11 +22,18 @@ PrioritarIA es un sistema de IA pensado para reordenar por urgencia real (no por
 ```text
 PrioritarIA/
 ├── README.md
-└── sprint1/
-    ├── Especificacion v1.0.pdf
+├── sprint1/
+│   ├── Especificacion v1.0.pdf
+│   └── Anexos/
+│       ├── Anexo - Definición del proyecto 2030 v1.0.pdf
+│       └── Anexo - Lluvia de Ideas v1.0.pdf
+└── sprint2/
+    ├── Sprint 2 - Desafíos Éticos de la IA v1.0.pdf
     └── Anexos/
-        ├── Anexo - Definición del proyecto 2030 v1.0.pdf
-        └── Anexo - Lluvia de Ideas v1.0.pdf
+        ├── Apéndice A - Definición del proyecto 2030 v2.0.pdf
+        ├── Apéndice B - Mock-ups y Arquitectura.pdf
+        ├── Apéndice C - Personalización y Límites Éticos.pdf
+        └── Apéndice D - Explicabilidad en Capas.pdf
 ```
 
 Cada sprint tendrá su propia carpeta (`sprint1/`, `sprint2/`...) con el
