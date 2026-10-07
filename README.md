@@ -33,7 +33,8 @@ PrioritarIA/
         ├── Apéndice A - Definición del proyecto 2030 v2.0.pdf
         ├── Apéndice B - Mock-ups y Arquitectura.pdf
         ├── Apéndice C - Personalización y Límites Éticos.pdf
-        └── Apéndice D - Explicabilidad en Capas.pdf
+        ├── Apéndice D - Explicabilidad en Capas.pdf
+        └── Apéndice E - Reflexión posturas macro.pdf
 ```
 
 Cada sprint tendrá su propia carpeta (`sprint1/`, `sprint2/`...) con el
