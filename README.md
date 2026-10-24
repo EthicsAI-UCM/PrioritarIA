@@ -12,7 +12,7 @@ PrioritarIA es un sistema de IA pensado para reordenar por urgencia real (no por
 |---|---|---|
 | 1 | Especificación del proyecto | 30/9 |
 | 2 | Desafíos éticos IA | 14/10 |
-| 3 | Implicaciones sociales IA | 25/10 |
+| 3 | Implicaciones sociales IA | 28/10 |
 | 4 | Propiedad intelectual | 11/11 |
 | 5 | Privacidad | 25/11 |
 | 6 | Model Card Final | 9/12 |
