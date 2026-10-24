@@ -5,14 +5,14 @@ Proyecto de la asignatura 'Ética de Datos e Inteligencia Artificial' - Especifi
 PrioritarIA es un sistema de IA pensado para reordenar por urgencia real (no por orden de solicitud) la lista de espera de un servicio público, apoyando las decisiones de priorización pero sin sustituir el criterio humano final.
 
 ## Estado actual
-**Sprint en curso:** Sprint 2 -> Desafíos Éticos IA
+**Sprint en curso:** Sprint 3 -> Implicaciones Sociales de la IA
 **Próxima entrega:** 11/10/2026
 
 | Sprint | Foco | Fecha pitch |
 |---|---|---|
 | 1 | Especificación del proyecto | 30/9 |
 | 2 | Desafíos éticos IA | 14/10 |
-| 3 | Implicaciones sociales IA | 28/10 |
+| 3 | Implicaciones sociales IA | 25/10 |
 | 4 | Propiedad intelectual | 11/11 |
 | 5 | Privacidad | 25/11 |
 | 6 | Model Card Final | 9/12 |
