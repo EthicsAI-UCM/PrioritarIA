@@ -28,13 +28,25 @@ PrioritarIA/
 │       ├── Anexo - Definición del proyecto 2030 v1.0.pdf
 │       └── Anexo - Lluvia de Ideas v1.0.pdf
 └── sprint2/
-    ├── Sprint 2 - Desafíos Éticos de la IA v1.0.pdf
+│    ├── Sprint 2 - Desafíos Éticos de la IA v1.0.pdf
+│    └── Anexos/
+│        ├── Apéndice A - Definición del proyecto 2030 v2.0.pdf
+│        ├── Apéndice B - Mock-ups y Arquitectura.pdf
+│        ├── Apéndice C - Personalización y Límites Éticos.pdf
+│        ├── Apéndice D - Explicabilidad en Capas.pdf
+│        └── Apéndice E - Reflexión posturas macro.pdf
+└── sprint3/
+    ├── Sprint 3 - Implicaciones Sociales de la IA v1.0.pdf
     └── Anexos/
-        ├── Apéndice A - Definición del proyecto 2030 v2.0.pdf
-        ├── Apéndice B - Mock-ups y Arquitectura.pdf
-        ├── Apéndice C - Personalización y Límites Éticos.pdf
-        ├── Apéndice D - Explicabilidad en Capas.pdf
-        └── Apéndice E - Reflexión posturas macro.pdf
+        ├── Apéndice A - Definición del proyecto 2030 v3.0.pdf
+        ├── Apéndice B - Tabla de riesgos v1.0.pdf
+        ├── Apéndice C - Plausibilidad v1.0.pdf
+        ├── Apéndice D - Líneas rojas v1.0.pdf
+        └── Apéndice E - Emergencias v1.0.pdf
+        ├── Apéndice F - Rendición de cuentas y reparación v1.0.pdf
+        └── Apéndice G - Usuarios, sesgos y colectivos afectados v1.0.pdf
+        ├── Actualizados a v2.0: riesgos a gran escala, explicabilidad en capas, personalización, robustez y casos límite
+
 ```
 
 Cada sprint tendrá su propia carpeta (`sprint1/`, `sprint2/`...) con el
