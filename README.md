@@ -42,10 +42,10 @@ PrioritarIA/
         ├── Apéndice B - Tabla de riesgos v1.0.pdf
         ├── Apéndice C - Plausibilidad v1.0.pdf
         ├── Apéndice D - Líneas rojas v1.0.pdf
-        └── Apéndice E - Emergencias v1.0.pdf
+        ├── Apéndice E - Emergencias v1.0.pdf
         ├── Apéndice F - Rendición de cuentas y reparación v1.0.pdf
-        └── Apéndice G - Usuarios, sesgos y colectivos afectados v1.0.pdf
-        ├── Actualizados a v2.0: riesgos a gran escala, explicabilidad en capas, personalización, robustez y casos límite
+        ├── Apéndice G - Usuarios, sesgos y colectivos afectados v1.0.pdf
+        └── Actualizados a v2.0: riesgos a gran escala, explicabilidad en capas, personalización, robustez y casos límite
 
 ```
 
