@@ -5,50 +5,64 @@ Proyecto de la asignatura 'Ética de Datos e Inteligencia Artificial' - Especifi
 PrioritarIA es un sistema de IA pensado para reordenar por urgencia real (no por orden de solicitud) la lista de espera de un servicio público, apoyando las decisiones de priorización pero sin sustituir el criterio humano final.
 
 ## Estado actual
-**Sprint en curso:** Sprint 3 -> Implicaciones Sociales de la IA
-**Próxima entrega:** 11/10/2026
+**Sprint en curso:** Sprint 4 -> Propiedad Intelectual, Licenciamiento y Modelo de Negocio  
+**Próxima entrega:** 08/11/2026
 
-| Sprint | Foco | Fecha pitch |
+| Sprint | Foco | Fecha entrega / pitch |
 |---|---|---|
-| 1 | Especificación del proyecto | 30/9 |
+| 1 | Especificación del proyecto | 30/09 |
 | 2 | Desafíos éticos IA | 14/10 |
 | 3 | Implicaciones sociales IA | 28/10 |
-| 4 | Propiedad intelectual | 11/11 |
+| 4 | Propiedad intelectual | 08/11 |
 | 5 | Privacidad | 25/11 |
-| 6 | Model Card Final | 9/12 |
+| 6 | Model Card Final | 09/12 |
 
 ## Estructura del repositorio
 
 ```text
 PrioritarIA/
+├── .gitignore
 ├── README.md
+├── LICENSE
+├── .github/
+│   ├── CODE_OF_CONDUCT.md
+│   ├── CONTRIBUTING.md
+│   └── SECURITY.md
 ├── sprint1/
 │   ├── Especificacion v1.0.pdf
 │   └── Anexos/
 │       ├── Anexo - Definición del proyecto 2030 v1.0.pdf
 │       └── Anexo - Lluvia de Ideas v1.0.pdf
-└── sprint2/
-│    ├── Sprint 2 - Desafíos Éticos de la IA v1.0.pdf
-│    └── Anexos/
-│        ├── Apéndice A - Definición del proyecto 2030 v2.0.pdf
-│        ├── Apéndice B - Mock-ups y Arquitectura.pdf
-│        ├── Apéndice C - Personalización y Límites Éticos.pdf
-│        ├── Apéndice D - Explicabilidad en Capas.pdf
-│        └── Apéndice E - Reflexión posturas macro.pdf
-└── sprint3/
-    ├── Sprint 3 - Implicaciones Sociales de la IA v1.0.pdf
+├── sprint2/
+│   ├── Especificacion v2.0.pdf
+│   └── Anexos/
+│       ├── Anexo - Análisis de riesgos a gran escala v1.0.pdf
+│       ├── Anexo - Definición del proyecto 2030 v2.0.pdf
+│       ├── Anexo - Explicabilidad en capas v1.0.pdf
+│       ├── Anexo - Mock-ups y Prototipos UI v1.0.pdf
+│       ├── Anexo - Personalización v1.0.pdf
+│       ├── Anexo - Reflexión posturas macro v1.0.pdf
+│       └── Anexo - Robustez y casos límite v1.0.pdf
+├── sprint3/
+│   ├── Especificacion v3.0.pdf
+│   └── Anexos/
+│       ├── Anexo - Análisis de riesgos a gran escala v2.0.pdf
+│       ├── Anexo - Definición del proyecto 2030 v3.0.pdf
+│       ├── Anexo - Emergencias v1.0.pdf
+│       ├── Anexo - Explicabilidad en capas v2.0.pdf
+│       ├── Anexo - Líneas Rojas v1.0.pdf
+│       ├── Anexo - Personalización v2.0.pdf
+│       ├── Anexo - Plausibilidad v1.0.pdf
+│       ├── Anexo - Rendición de cuentas y reparación v1.0.pdf
+│       ├── Anexo - Robustez y casos límite v2.0.pdf
+│       ├── Anexo - Tabla de Riesgos v1.0.pdf
+│       └── Anexo - Usuarios, Sesgos y Colectivos Afectados v1.0.pdf
+└── sprint4/
+    ├── Especificacion v4.0.pdf
     └── Anexos/
-        ├── Apéndice A - Definición del proyecto 2030 v3.0.pdf
-        ├── Apéndice B - Tabla de riesgos v1.0.pdf
-        ├── Apéndice C - Plausibilidad v1.0.pdf
-        ├── Apéndice D - Líneas rojas v1.0.pdf
-        ├── Apéndice E - Emergencias v1.0.pdf
-        ├── Apéndice F - Rendición de cuentas y reparación v1.0.pdf
-        ├── Apéndice G - Usuarios, sesgos y colectivos afectados v1.0.pdf
-        └── Actualizados a v2.0: riesgos a gran escala, explicabilidad en capas, personalización, robustez y casos límite
-
+        ├── Apéndice E - Blindaje Técnico-Normativo Post-Debate Sprint 3.pdf
+        └── Apéndice F - Propiedad Intelectual, Licencias y Modelo de Negocio v1.0.pdf
 ```
-
 Cada sprint tendrá su propia carpeta (`sprint1/`, `sprint2/`...) con el
 documento principal de especificación y su subcarpeta `Anexos/` con el
 material complementario correspondiente.
