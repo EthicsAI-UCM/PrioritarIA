@@ -57,11 +57,7 @@ PrioritarIA/
 │       ├── Anexo - Robustez y casos límite v2.0.pdf
 │       ├── Anexo - Tabla de Riesgos v1.0.pdf
 │       └── Anexo - Usuarios, Sesgos y Colectivos Afectados v1.0.pdf
-└── sprint4/
-    ├── Especificacion v4.0.pdf
-    └── Anexos/
-        ├── Apéndice E - Blindaje Técnico-Normativo Post-Debate Sprint 3.pdf
-        └── Apéndice F - Propiedad Intelectual, Licencias y Modelo de Negocio v1.0.pdf
+
 ```
 Cada sprint tendrá su propia carpeta (`sprint1/`, `sprint2/`...) con el
 documento principal de especificación y su subcarpeta `Anexos/` con el
@@ -78,9 +74,9 @@ Además, usamos la wiki y el board (projects) del repositorio:
 | Marcos Poza Calvo | Product Owner | Norte |
 | Claudia Herce Sánchez | Scrum Master | Este |
 | Maria del Carmen Granados Villa | Team Advocate | Sur |
-| Carla López Priego | Experta en Git | Este |
+| Carla López Priego | Experta en Git | Norte |
 | Lucía Gimenez García | Research Lead | Oeste |
-| Isaura Silva | Creative Director | Sur |
+| Isaura Silva | Creative Director | Este |
 
 ## Política de uso de IA
 
